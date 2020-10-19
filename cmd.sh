@@ -1,0 +1,1 @@
+docker run -it --rm -v $PWD/src:/data -w /data python:3 python main.py
